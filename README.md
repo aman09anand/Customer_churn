@@ -4,12 +4,12 @@ we build a model to predict how likely a customer will churn by analyzing its ch
 The data set used in this article is available in the Kaggle (CC BY-NC-ND) and contains nineteen columns (independent variables) that indicate the characteristics of the clients of a fictional telecommunications corporation. https://www.kaggle.com/datasets/blastchar/telco-customer-churn 
 # Steps of the project
 The project consists of the following sections:
-Data Reading
-Exploratory Data Analysis and Data Cleaning
-Data Visualization
-Feature Engineering
-Splitting the data in training and testing sets
-Assessing multiple machine learning algorithms
-Algorithm selected: Gradient Boosting
-Hyperparameter tuning
-Performance of the model
+<br/> 1.Data Reading
+<br/> 2.Exploratory Data Analysis and Data Cleaning
+<br/> 3.Data Visualization
+<br/> 4.Feature Engineering
+<br/> 5.Splitting the data into training and testing sets
+<br/> 6.Assessing multiple machine learning algorithms
+<br/> 7.Algorithm selected: Gradient Boosting
+<br/> 8.Hyperparameter tuning
+<br/> 9.Performance of the model
